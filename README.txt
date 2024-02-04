@@ -1,5 +1,4 @@
-#Author : Tang King Hei, Steven
-This simple application is an implementation of a ftp protocol.
+This application is an implementation of a simplified FTP protocol.
 It works under linux environment and with gcc compiler. 
 
 #HowtoUse
